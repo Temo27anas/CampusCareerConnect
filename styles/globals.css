@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Popins";  
+  src: local("Popins"), url("fonts/Poppins-light.ttf") format("truetype");
+}
+
+
+::placeholder {
+  color: #82BFAA;
+}
+
+.position-relative {
+  position: relative!important;
+}
